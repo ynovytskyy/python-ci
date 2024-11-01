@@ -2,6 +2,9 @@
 
 [![codecov](https://codecov.io/github/timvancann/yt-python-ci/graph/badge.svg?token=V7PPBOI0F0)](https://codecov.io/github/timvancann/yt-python-ci)
 
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/timvancann)
+
+
 This CI pipeline uses the latest and greatest tooling to run all sorts of checks in a python project.
 
 - UV for python dependency management and virtual environments
