@@ -15,3 +15,5 @@ This CI pipeline uses the latest and greatest tooling to run all sorts of checks
 - `pytest` for testing
 - `pytest-cov` for coverage
 - building a wheel
+
+Accompanying video is available on [YouTube](https://www.youtube.com/watch?v=Y6D2XaFV3Cc) and a write-up at [Timnology.io](https://www.timnology.io/articles/python-ci)
